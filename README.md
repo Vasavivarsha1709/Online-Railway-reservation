@@ -28,7 +28,8 @@ Train Details :phpmyadmin (MYSQL Connector)
 
 Reservations Details
 
-![reservation](https://user-images.githubusercontent.com/111517812/200135011-1b25c519-b5f7-45fd-8ab2-1f68b7a20866.png)
+![reservation details](https://user-images.githubusercontent.com/111517812/200135129-81225e30-5aa2-4314-aa3f-5b81bb1b2368.png)
+
 
 
 
